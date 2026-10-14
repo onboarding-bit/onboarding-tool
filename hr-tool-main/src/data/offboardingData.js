@@ -1,0 +1,15 @@
+export const offboardingChecklist = [
+  { task: 'Resignation Received', status: 'Completed', dueDate: '10 Jul 2026' },
+  { task: 'Exit Approval', status: 'Completed', dueDate: '12 Jul 2026' },
+  { task: 'Exit Interview Scheduled', status: 'Completed', dueDate: '15 Jul 2026' },
+  { task: 'Asset Handover', status: 'In Progress', dueDate: '17 Jul 2026' },
+  { task: 'Knowledge Transfer', status: 'Pending', dueDate: '19 Jul 2026' },
+  { task: 'Account Suspension', status: 'Pending', dueDate: '20 Jul 2026' },
+  { task: 'Google Workspace Access Removal', status: 'Pending', dueDate: '20 Jul 2026' },
+  { task: 'Final Settlement', status: 'Pending', dueDate: '22 Jul 2026' },
+  { task: 'Experience / Relieving Letter', status: 'Pending', dueDate: '23 Jul 2026' },
+  { task: 'Exit Clearance Form', status: 'Pending', dueDate: '24 Jul 2026' },
+  { task: 'Drive Ownership Transfer', status: 'Pending', dueDate: '25 Jul 2026' },
+  { task: 'Benefits & Deductions', status: 'Pending', dueDate: '27 Jul 2026' },
+  { task: 'Offboarding Complete', status: 'Pending', dueDate: '30 Jul 2026' },
+]

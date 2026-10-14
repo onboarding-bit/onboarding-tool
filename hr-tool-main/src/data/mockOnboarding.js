@@ -1,0 +1,95 @@
+export const mockOnboarding = [
+  {
+    id: 'EMP-1001',
+    name: 'Bhavana K',
+    designation: 'Software Engineer',
+    joiningDate: '18 Aug 2026',
+    employmentType: 'Full Time',
+    progress: 30,
+    currentStage: 'IT Setup',
+    status: 'In Progress',
+  },
+  {
+    id: 'EMP-1002',
+    name: 'Rahul Sharma',
+    designation: 'Marketing Intern',
+    joiningDate: '20 Aug 2026',
+    employmentType: 'Intern',
+    progress: 50,
+    currentStage: 'Team Introduction',
+    status: 'In Progress',
+  },
+  {
+    id: 'EMP-1003',
+    name: 'Priya Nair',
+    designation: 'Product Designer',
+    joiningDate: '22 Aug 2026',
+    employmentType: 'Full Time',
+    progress: 80,
+    currentStage: 'Documentation',
+    status: 'Ready',
+  },
+]
+
+export const onboardingChecklist = [
+  {
+    task: 'Day 1 Orientation',
+    description: 'Welcome and company introduction.',
+    status: 'Completed',
+    dueDate: '10 Aug 2026',
+  },
+  {
+    task: 'Team Introduction',
+    description: 'Introduce employee to team members.',
+    status: 'Completed',
+    dueDate: '10 Aug 2026',
+  },
+  {
+    task: 'Policy Acknowledgement',
+    description: 'Company policies and code of conduct.',
+    status: 'Completed',
+    dueDate: '12 Aug 2026',
+  },
+  {
+    task: 'IT Setup',
+    description: 'Laptop, software, and access setup.',
+    status: 'In Progress',
+    dueDate: '12 Aug 2026',
+  },
+  {
+    task: 'System Access',
+    description: 'Provide necessary system access.',
+    status: 'Pending',
+    dueDate: '15 Aug 2026',
+  },
+  {
+    task: 'Training & Resources',
+    description: 'Provide training and documentation.',
+    status: 'Pending',
+    dueDate: '15 Aug 2026',
+  },
+  {
+    task: 'Google Groups Addition',
+    description: 'Add employee to relevant Google Groups.',
+    status: 'Pending',
+    dueDate: '16 Aug 2026',
+  },
+  {
+    task: 'Probation Tracking',
+    description: 'Set probation period and milestones.',
+    status: 'Pending',
+    dueDate: '18 Aug 2026',
+  },
+  {
+    task: 'Welcome Kit / Assets',
+    description: 'Issue welcome kit or company assets.',
+    status: 'Pending',
+    dueDate: '18 Aug 2026',
+  },
+  {
+    task: 'Onboarding Complete',
+    description: 'All onboarding tasks completed.',
+    status: 'Pending',
+    dueDate: '20 Aug 2026',
+  },
+]
